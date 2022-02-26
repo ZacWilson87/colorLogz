@@ -1,6 +1,6 @@
 {
     "name": "@zwilson87/coloredlogz",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "description": "A simple color logger for javascript",
     "license": "MIT",
     "main": "colorLogz.js",
